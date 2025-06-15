@@ -25,8 +25,8 @@ This project analyzes customer product reviews from Amazon to explore:
 - Sentiment analysis shows most reviews are **positive**; common keywords include "delicious", "perfect", and "great".
 
 ##  How to Run
-1. Ensure `database.sqlite` is in your working directory
-2. Open and run `Amazon_Sentiment_Analysis.ipynb`
+1. Open  `Amazon_Sentiment_Analysis.ipynb`
+2. Run all cells to reproduce the analysis
 
 ## Status
 Finished 
