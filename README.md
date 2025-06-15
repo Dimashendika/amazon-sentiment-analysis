@@ -6,7 +6,10 @@ This project analyzes customer product reviews from Amazon to explore:
 - Sentiment of customer reviews
 
 ## Dataset
-- SQLite file: `database.sqlite` containing Amazon product reviews
+- The data is stored in database.sqlite, containing Amazon product reviews.
+- Note: Due to dataset size restrictions, the dataset is not included in this repository.
+If you would like to access the data, please contact the project author.
+
 
 ## Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
@@ -26,7 +29,8 @@ This project analyzes customer product reviews from Amazon to explore:
 
 ##  How to Run
 1. Open  `Amazon_Sentiment_Analysis.ipynb`
-2. Run all cells to reproduce the analysis
+Note: All analysis outputs are already rendered.
+You can scroll through and read the results without needing to run the code.
 
 ## Status
 Finished 
